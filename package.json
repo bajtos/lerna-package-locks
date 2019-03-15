@@ -1,0 +1,22 @@
+{
+  "name": "lerna-package-locks",
+  "version": "1.0.0",
+  "description": "Lerna monorepo with npm package-lock files enabled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajtos/lerna-package-locks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bajtos/lerna-package-locks/issues"
+  },
+  "homepage": "https://github.com/bajtos/lerna-package-locks#readme",
+  "dependencies": {
+    "lerna": "^3.13.1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Miroslav Bajtoš <mbajtoss@gmail.com>",
+  "homepage": "https://github.com/bajtos/lerna-package-locks/tree/master/packages/app#readme",
+  "license": "ISC",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajtos/lerna-package-locks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bajtos/lerna-package-locks/issues"
+  },
+  "dependencies": {
+    "helpers": "^1.0.0"
+  }
+}
