@@ -24,6 +24,7 @@
     "url": "https://github.com/bajtos/lerna-package-locks/issues"
   },
   "dependencies": {
-    "helpers": "^1.0.0"
+    "helpers": "^1.0.0",
+    "p-map": "^2.0.0"
   }
 }
