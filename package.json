@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/bajtos/lerna-package-locks#readme",
   "dependencies": {
-    "lerna": "^3.13.1"
+    "lerna": "^3.13.4"
   }
 }
